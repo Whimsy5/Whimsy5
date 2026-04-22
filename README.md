@@ -9,7 +9,6 @@ If an idea pops into my head, chances are I'll build it.
 My main tech stack is; React, JavaScript, TailwindCSS, Vite, Motion, Vite and SVG animation. My favourite tools are figma and canva.
 
 Fun facts:
-. I love drawing and colouring.
-. I have a love hate relationship with onions.
-
+ I love drawing and coloring. 
+ I have a love hate relationship with onions.
 
