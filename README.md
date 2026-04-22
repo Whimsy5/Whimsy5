@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hi there 👋
 
-<!--
-**Whimsy5/Whimsy5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Brenda, a design engineer based in Kenya.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll build it.
+
+My main tech stack is; React, JavaScript, TailwindCSS, Vite, Motion, Vite and SVG animation. My favourite tools are figma and canva.
+
+Fun facts:
+. I love drawing and colouring.
+. I have a love hate relationship with onions.
+
+
